@@ -202,7 +202,7 @@ const Homepage = () => {
   };
 
   return (
-    <div className="p-10 sm:text-sm">
+    <div className="p-10 sm:text-sm sm:p-6">
       <div className="flex flex-col justify-center items-center w-full">
         <h1 className="text-5xl my-7 text-center">
           Welcome to Fit<span className="bg-muted rounded-xl px-2">Ai</span>!

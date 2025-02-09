@@ -4,7 +4,7 @@
     animation: chatSlideIn 0.4s ease-in-out;
 }
 .skeletonChat{
-    @apply flex flex-col items-start space-y-2 px-5 py-3 rounded-2xl bg-muted mb-4 w-[50vw] justify-start;
+    @apply flex flex-col items-start space-y-2 px-5 py-3 rounded-2xl bg-muted mb-4 w-[75vw] justify-start;
     animation: chatPop 0.4s ease-out;
     animation: chatSlideIn 0.4s ease-in-out;
 }
