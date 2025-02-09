@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+FitAI - AI-Powered Fitness Assistant
 
-## Getting Started
+Overview
 
-First, run the development server:
+FitAI is an AI-powered fitness assistant that generates personalized workout and diet plans based on user needs. Using Gemini AI 2.0 Flash, it provides intelligent fitness recommendations and allows users to download their plans as PDFs.
 
-```bash
+Features
+
+🎯 Personalized Workout Plans – AI-generated routines tailored to fitness goals.
+
+🥗 Customized Diet Plans – Meal plans based on user preferences and dietary needs.
+
+📄 PDF Export – Downloadable PDF format for easy access.
+
+🤖 AI-Powered Suggestions – Uses Gemini AI 2.0 Flash for accurate recommendations.
+
+🎨 Modern UI – Built with ShadCN, ensuring a sleek and user-friendly experience.
+
+Tech Stack
+
+Next.js 15 – Server-side rendering and seamless UI/UX.
+
+TypeScript – Type safety and maintainability.
+
+ShadCN – Modern UI components.
+
+Gemini AI 2.0 Flash – AI model for fitness recommendations.
+
+Installation
+
+# Clone the repository
+git clone https://github.com/yourusername/fitness-ai-app.git
+
+# Navigate to the project directory
+cd fitness-ai-app
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Usage
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open the app and input your fitness details (goals, dietary preferences, fitness level).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+AI generates a customized workout and diet plan.
 
-## Learn More
+View and adjust the plan as needed.
 
-To learn more about Next.js, take a look at the following resources:
+Download your personalized plan as a PDF.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+API Integration
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+FitAI utilizes the Gemini AI 2.0 Flash API to analyze user input and generate optimized plans. Ensure you have API access before running the project.
 
-## Deploy on Vercel
+Live Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🚀 Try FitAI Live: https://fitness-ai-weld.vercel.app/ 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contributing
+
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+License
+
+This project is licensed under the MIT License.
+
+Contact
+
+For questions or feedback, reach out via [your email or social media].
