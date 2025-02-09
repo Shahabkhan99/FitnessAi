@@ -1,5 +1,5 @@
 .chat{
-    @apply px-5 py-3 rounded-2xl bg-muted mb-4 max-w-[50vw] text-wrap ;
+    @apply px-5 py-3 rounded-2xl bg-muted mb-4 max-w-[75vw] text-wrap ;
     animation: chatPop 0.4s ease-out;
     animation: chatSlideIn 0.4s ease-in-out;
 }
