@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import styles from "@/Components/Homepage/Homepage.module.css";
-import { ToggleGroup, ToggleGroupItem } from "@/Components/ui/toggle-group";
+import { ToggleGroup, ToggleGroupItem } from "@/app/Components/ui/toggle-group";
 import { Input } from "../ui/input";
 import { Skeleton } from "../ui/skeleton";
 import { Button } from "../ui/button";

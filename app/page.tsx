@@ -1,4 +1,4 @@
-import Homepage from "@/Components/Homepage/Homepage";
+import Homepage from "@/app/Components/Homepage/Homepage";
 import React from "react";
 
 const page = async () => {
