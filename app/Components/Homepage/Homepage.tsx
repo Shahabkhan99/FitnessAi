@@ -549,7 +549,7 @@ const Homepage = () => {
       {typeof aiDietResp === "string" && (
         <div className="flex flex-col justify-center items-center w-full">
           <div className="text-5xl my-7">Thank You!</div>
-          <div>Created By Rahil Tanna.</div>
+          <div>Created By Rahil.</div>
         </div>
       )}
     </div>
