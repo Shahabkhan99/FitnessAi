@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fit Ai",
+  title: "Guls Fitness Ai",
   description: "Creates a workout and diet plan tailored to the user's needs.",
 };
 
